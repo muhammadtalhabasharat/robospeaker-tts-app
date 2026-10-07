@@ -1,8 +1,7 @@
-"""
-RoboSpeaker 2.0
-A text-to-speech assistant: type text, choose how many times to repeat it,
-and it's read aloud. Supports adjustable speech rate.
-"""
+
+#RoboSpeaker 2.0
+#A text-to-speech assistant: type text, choose how many times to repeat it.
+#Supports adjustable speech rate.
 
 import pyttsx3
 
